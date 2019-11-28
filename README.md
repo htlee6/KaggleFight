@@ -15,7 +15,7 @@ cd /YourDestination/KaggleFight
 
     Digit recognization is a typical problem for machine learning or data mining staters. It's famous for the MNIST dataset.
     ```shell
-    cd DigitRecognize
+    cd DigitRecognize/solution
     python3 main.py
     ```
-    And see the result. 
+    And see the result.
